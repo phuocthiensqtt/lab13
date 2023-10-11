@@ -1,0 +1,26 @@
+.container-fluied {
+  display: flex;
+}
+
+.d-flex {
+  position: absolute;
+  right: 10px;
+}
+
+.img1 {
+  height: 500px;
+}
+
+.img2 {
+  height: 500px;
+}
+
+.img3 {
+  height: 500px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 10px;
+  text-align: center;
+}
